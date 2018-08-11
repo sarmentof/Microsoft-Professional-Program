@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://academy.microsoft.com/en-us/professional-program/">
+    <img src="http://www.bluekaizen.org/wp-content/uploads/2014/11/ms-certifica.jpg" alt="Microsoft Virtual Academy logo by Blue Kaizen">
+  </a>
+</p>
+
 # Microsoft Professional Program
 **pt-BR:**<br>
 Repositório para os exercícios dos cursos do Microsoft Professional Program.
@@ -7,7 +13,11 @@ Aqui estarão os exercícios realizados nos cursos:
 - ["DevOps"](https://academy.microsoft.com/en-us/tracks/devops)
 
 **en-US:**<br>
-Repository for content of the "Front-End Web Development" Course
+Repository for Microsoft Professional Program course exercises.
+
+Here are the exercises done in the courses:
+- ["Front-End Web Development"](https://academy.microsoft.com/en-us/tracks/front-end-development)
+- ["DevOps"](https://academy.microsoft.com/en-us/tracks/devops)
 
 ## GitHub Status
 
