@@ -35,11 +35,11 @@ Here are the exercises done in the courses:
 ## Getting Started
 
 **pt-BR:**<br>
-O conteúdo disponibilizado inicialmente aqui é fruto dos exercícios das aulas do curso "Front-End Web Development", realizado na plataforma edX e faz parte do Microsoft Professional Program.
+O conteúdo disponibilizado inicialmente aqui é fruto dos exercícios das aulas do curso "Front-End Web Development", realizado na plataforma edX e faz parte do Microsoft Professional Program.<br>
 Para acessar o curso, basta clicar [aqui](https://academy.microsoft.com/en-us/tracks/front-end-development).
 
 **en-US:**<br>
-The content available here is the result of the "Front-End Web Development" course, which is conducted on the edX platform and is part of the Microsoft Professional Program.
+The content available here is the result of the "Front-End Web Development" course, which is conducted on the edX platform and is part of the Microsoft Professional Program.<br>
 To access the course, just click [here](https://academy.microsoft.com/en-us/tracks/front-end-development).
 
 <br>
