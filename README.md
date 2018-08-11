@@ -9,7 +9,7 @@ Repository for "Front-End Web Development"
 
 ![GitHub](https://img.shields.io/github/license/sarmentof/Microsoft-Professional-Program.svg)
 ![GitHub release](https://img.shields.io/github/release/sarmentof/Microsoft-Professional-Program.svg)
-[![GitHub commits](https://img.shields.io/github/commits-since/SubtitleEdit/subtitleedit/sarmentof/Microsoft-Professional-Program.svg)](https://github.com/sarmentof/Microsoft-Professional-Program)
+![GitHub commits](https://img.shields.io/github/commits-since/SubtitleEdit/sarmentof/aug-18.svg)
 
 
 ## Getting Started
