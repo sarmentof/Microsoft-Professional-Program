@@ -21,12 +21,14 @@ Here are the exercises done in the courses:
 - ["Front-End Web Development"](https://academy.microsoft.com/en-us/tracks/front-end-development)
 - ["DevOps"](https://academy.microsoft.com/en-us/tracks/devops)
 
+
 ## GitHub Status
 
 ![GitHub](https://img.shields.io/github/license/sarmentof/Microsoft-Professional-Program.svg)
 ![GitHub release](https://img.shields.io/github/release/sarmentof/Microsoft-Professional-Program.svg)
 ![GitHub tag](https://img.shields.io/github/tag/sarmentof/Microsoft-Professional-Program.svg)
 ![GitHub commits](https://img.shields.io/github/commits-since/SubtitleEdit/sarmentof/aug-18.svg)
+
 
 ## Getting Started
 
@@ -37,6 +39,7 @@ Para acessar o curso, basta clicar [aqui](https://academy.microsoft.com/en-us/tr
 **en-US:**<br>
 The content available here is the result of the "Front-End Web Development" course, which is conducted on the edX platform and is part of the Microsoft Professional Program.
 To access the course, just click [here](https://academy.microsoft.com/en-us/tracks/front-end-development).
+
 
 ## About Me
 
