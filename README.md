@@ -29,8 +29,10 @@ Here are the exercises done in the courses:
 
 ![GitHub](https://img.shields.io/github/license/sarmentof/Microsoft-Professional-Program.svg)
 ![GitHub release](https://img.shields.io/github/release/sarmentof/Microsoft-Professional-Program.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/sarmentof/Microsoft-Professional-Program.svg)
 ![GitHub tag](https://img.shields.io/github/tag/sarmentof/Microsoft-Professional-Program.svg)
 ![GitHub commits](https://img.shields.io/github/commits-since/SubtitleEdit/sarmentof/aug-18.svg)
+![GitHub repo size in bytes](https://img.shields.io/github/repo-size/sarmentof/Microsoft-Professional-Program.svg)
 
 <br>
 
