@@ -14,6 +14,8 @@ Aqui estarão os exercícios realizados nos cursos:
 - ["Front-End Web Development"](https://academy.microsoft.com/en-us/tracks/front-end-development)
 - ["DevOps"](https://academy.microsoft.com/en-us/tracks/devops)
 
+<br>
+
 **en-US:**<br>
 Repository for Microsoft Professional Program course exercises.
 
@@ -54,6 +56,8 @@ CEO na empresa [Howto Tecnologia](https://www.howto.com.br), estou me aventurand
 No momento estou caminhando na jornada Front-End, aproveitando o Microsoft Professional Program.
 
 Vejo vocês no [Twitter](https://twitter.com/fabianopzr).
+
+<br>
 
 **en-US:**<br>
 I am Brazilian, living in the City of Rio de Janeiro, graduated in Information Technology Management from Estácio de Sá University, MBA in Project Management and IT Services from UFRJ.
